@@ -43,17 +43,17 @@ Just open the file in your browser:
 git clone https://github.com/shileodebode/digitalloop-sales-dashboard.git
 
 # Open in browser
-open digitalloop-sales-dashboard/dashboard.html
+open digitalloop-sales-dashboard/index.html
 ```
 
-Or simply double-click `dashboard.html` in your file explorer.
+Or simply double-click `index.html` in your file explorer.
 
 ### Deploy
 
 The project is already deployed via GitHub Pages. To redeploy after making changes:
 
 ```bash
-git add dashboard.html
+git add index.html
 git commit -m "Update dashboard"
 git push origin main
 ```
@@ -66,7 +66,7 @@ GitHub Pages will automatically rebuild within a minute or two.
 
 ```
 digitalloop-sales-dashboard/
-└── dashboard.html      # Single-file app — all HTML, CSS, and JS in one place
+└── index.html      # Single-file app — all HTML, CSS, and JS in one place
 ```
 
 ---
