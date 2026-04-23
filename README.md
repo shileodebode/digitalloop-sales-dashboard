@@ -1,4 +1,4 @@
-# Lumina Sales Dashboard
+# Digitalloop Sales Dashboard
 
 A modern, fully interactive sales dashboard built with vanilla HTML, CSS, and JavaScript. No frameworks, no build tools — just open and go.
 
